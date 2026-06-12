@@ -1,0 +1,6 @@
+{
+  "name": "Unity Developer Tools",
+  "description": "An advanced suite of utilities for Unity game developers including C# Boilerplate Generators, Color to C# converters, LayerMask Calculators, Assembly Definition Builders, and Rich Text Markup Previewers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
